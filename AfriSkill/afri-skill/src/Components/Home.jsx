@@ -6,7 +6,7 @@ import ComputerIcon from '../images/StudentIcon2.png';
 
 const Home = () => {
   return (
-    <div >
+    <div className='absolute bg-[#fdcddc] min-h-[1117px] w-[1920px] ml-[-340px] mt-[-100px]'>
         <div>
             <div className=' absolute mt-[130px] ml-[60px]'>
                 <h1 className='font-bold text-3xl'>Afri;skill</h1>
